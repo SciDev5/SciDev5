@@ -17,6 +17,10 @@ Here are some ideas to get you started:
 #### *I may change my username once I finally have a good idea for it*
 
 
+## What I am doing:
+I am currently doing an internship at my local High School to create web apps for them.
+I am also working on several personal projects as a hobby.
+
 ## What I can do:
 - Confidently known languages:
     - JavaScript/TypeScript
@@ -44,10 +48,6 @@ not big enough to warrent being public and were just creating clutter)
 - AI
     - I know the theory, used TensorFlow python, but its been a while.
 
-## What I would like to learn:
+## What I plan to learn:
 - C/C++
 - OpenGL
-
-## What I do:
-I am currently doing an internship at my local High School to create web apps for them.
-I am also working on several personal projects as a hobby.
