@@ -14,12 +14,11 @@ Here are some ideas to get you started:
 -->
 
 # SciDev5
-#### *I may change my username once I finally have a good idea for it*
+#### *haha, nerd*
 
 
 ## What I am doing:
-I am currently doing an internship at my local High School to create web apps for them.
-I am also working on several personal projects as a hobby.
+I am programming random things I think of as a hobby.
 
 ## What I can do:
 - Confidently known languages:
@@ -46,7 +45,7 @@ I am also working on several personal projects as a hobby.
     - SpigotMC/Bukkit Plugins for Minecraft servers (not listed, because they were
 not big enough to warrent being public and were just creating clutter)
 - AI
-    - I know the theory, used TensorFlow python, but its been a while.
+    - TensorFlow [python, NodeJS].
 
 ## What I plan to learn:
 - C/C++
