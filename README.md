@@ -16,11 +16,21 @@ Here are some ideas to get you started:
 # SciDev5 `x-pronouns: she/they`
 #### *haha, nerd*
 
+Hobbyist with web dev roots playing around with various programming ideas in my free time.
+
 ## What I am doing:
 I am programming random things I think of as a hobby.
 
 > I signed up for the AI class before it was cool :sunglases:
 
+## Notable things I've done:
+- Write several instant messaging apps.
+- Make a spectrogram app.
+- Be lead programmer on my First Tech robotics team.
+- Participate in Ludum Dare 7 times.
+- Made way too many raytracer/raymarchers.
+
+<!--
 ## What I can do:
 - Confidently known languages:
     - TypeScript
@@ -51,3 +61,4 @@ I am programming random things I think of as a hobby.
 
 ## What I plan to learn:
 - C/C++
+-->
