@@ -24,10 +24,10 @@ I am programming random things I think of as a hobby.
 > I signed up for the AI class before it was cool :sunglases:
 
 ## Notable things I've done:
-- Write several instant messaging apps.
-- Make a spectrogram app.
+- Write some instant messaging apps.
+- Make a spectrogram app. (and that cool phase vocoding two input resynthesizer!)
 - Be lead programmer on my First Tech robotics team.
-- Participate in Ludum Dare 7 times.
+- Participate in Ludum Dare 8 times.
 - Made way too many raytracer/raymarchers.
 
 <!--
