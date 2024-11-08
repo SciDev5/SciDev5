@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - Fun fact: ...
 -->
 
-# SciDev5 `x-pronouns: she/they`
+# SciDev5 `X-Pronouns: she/they`
 #### *haha, nerd*
 
 Hobbyist with web dev roots playing around with various programming ideas in my free time.
