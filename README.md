@@ -21,7 +21,7 @@ Hobbyist with web dev roots playing around with various programming ideas in my 
 ## What I am doing:
 I am programming random things I think of as a hobby.
 
-> I signed up for the AI class before it was cool :sunglases:
+Currently working on my own general purpose programming language.
 
 ## Notable things I've done:
 - Write some instant messaging apps.
