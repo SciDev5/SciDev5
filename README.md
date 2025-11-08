@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 # SciDev5 `X-Pronouns: they/she`
-#### *haha, nerd*
+#### *rotates cube in mind*
 
 Hobbyist playing around with various programming ideas in my free time.
 
