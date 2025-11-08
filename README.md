@@ -13,15 +13,15 @@ Here are some ideas to get you started:
 - Fun fact: ...
 -->
 
-# SciDev5 `X-Pronouns: she/they`
+# SciDev5 `X-Pronouns: they/she`
 #### *haha, nerd*
 
-Hobbyist with web dev roots playing around with various programming ideas in my free time.
+Hobbyist playing around with various programming ideas in my free time.
 
 ## What I am doing:
 I am programming random things I think of as a hobby.
 
-Currently working on my own general purpose programming language.
+Currently working on my own general purpose programming language because I'm stupid and or crazy.
 
 ## Notable things I've done:
 - Write some instant messaging apps.
